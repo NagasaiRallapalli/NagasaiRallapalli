@@ -68,8 +68,8 @@ const nagaSai = {
 | 🎮 **Rock Paper Scissors** | Interactive browser game with real-time score tracking | HTML, CSS, JS | [▶ Play Now](https://rock-paper-scissor-nu-jet.vercel.app) |
 | 💻 **CodeNow Website** | Educational platform for learning web development | HTML, CSS | [▶ Visit](https://codenow-website-pi.vercel.app) |
 | 🔐 **Login & Signup UI** | Clean responsive login/signup interface | HTML, CSS | [▶ View](https://login-page-one-ashy.vercel.app) |
-| 🗺️ **Smart Indoor Navigation** | Campus navigation web app built in 24hrs at hackathon | HTML, CSS, JS | — |
-| 🚪 **Entry & Exit Counter** | Real-time occupancy tracking using IR sensors | Arduino, C | — |
+| 🗺️ **Smart Indoor Navigation** | Campus navigation web app built in 24hrs at hackathon | HTML, CSS, JS | [▶ Visit](https://acee-smart-indoor-nav.netlify.app) |
+| 🚪 **Entry & Exit Counter** | Real-time occupancy tracking using IR sensors & microcontroller | Arduino, C | 🔧 Hardware Project |
 
 </div>
 
@@ -79,8 +79,8 @@ const nagaSai = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NagasaiRallapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagasaiRallapalli&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+
 
 </div>
 
