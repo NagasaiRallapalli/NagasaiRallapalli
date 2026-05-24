@@ -24,8 +24,7 @@ const nagaSai = {
     education:    "B.Tech ECE @ Ramachandra College of Engineering (CGPA: 8.49)",
     graduating:   2027,
     currentFocus: ["JavaScript", "Python", "Data Structures"],
-    interests:    ["Web Development", "Embedded Systems", "IoT"],
-    funFact:      "I built a working web app in just 24 hours at a hackathon! ⚡"
+    interests:    ["Web Development", "Embedded Systems", "IoT"]
 };
 ```
 
