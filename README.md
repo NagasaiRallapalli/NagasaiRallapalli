@@ -64,7 +64,7 @@ const nagaSai = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech | 🌐 Live |
 |---|---|---|---|
-| 🎮 **Rock Paper Scissors** | Interactive browser game with real-time score tracking | HTML, CSS, JS | [▶ Play Now](https://rock-paper-scissor-nu-jet.vercel.app) |
+| 🎮 **Rock Paper Scissors** | Interactive browser game with real-time score tracking | HTML, CSS, JS | [▶ Play Now](https://rock-paper-scissor-five-delta.vercel.app/) |
 | 💻 **CodeNow Website** | Educational platform for learning web development | HTML, CSS | [▶ Visit](https://codenow-website-bice.vercel.app/) |
 | 🔐 **Login & Signup UI** | Clean responsive login/signup interface | HTML, CSS | [▶ View](https://login-page-one-ashy.vercel.app) |
 | 🗺️ **Smart Indoor Navigation** | Campus navigation web app built in 24hrs at hackathon | HTML, CSS, JS | [▶ Visit](https://acee-smart-indoor-nav.netlify.app) |
